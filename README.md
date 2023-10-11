@@ -40,7 +40,7 @@ En este momento, estoy en busca de nuevas oportunidades que me permitan desafiar
 
 ## 📌Mis proyectos</p>
 <p align="center">
-<a href="https://github.com/Henry-PF-CSYC/front-end/tree/dev"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=back-end-csyc&theme=gruvbox&hide_border=true&show_icons=true" alt="CSYC"></a>
+<a href="https://github.com/Henry-PF-CSYC/front-end/tree"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=front-end-csyc&theme=gruvbox&hide_border=true&show_icons=true" alt="CSYC"></a>
 
 <a href="https://github.com/LucasGonzalezRighi/front-trendy-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=front-trendy-app&theme=gruvbox&hide_border=true&show_icons=true" alt="Trendy-spot"></a>
 
