@@ -40,9 +40,13 @@ En este momento, estoy en busca de nuevas oportunidades que me permitan desafiar
 
 ## 📌Mis proyectos</p>
 <p align="center">
-<a href="https://github.com/LucasGonzalezRighi/food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=food&theme=gruvbox&hide_border=true&show_icons=true" alt="Foods"></a>
- <a href="https://github.com/LucasGonzalezRighi/rickandmorty"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucasgonzalezrighi&repo=rickandmorty&theme=gruvbox&hide_border=true&show_icons=true" alt="RickandMorty"></a>
+<a href="https://github.com/Henry-PF-CSYC/front-end/tree/dev"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=back-end-csyc&theme=gruvbox&hide_border=true&show_icons=true" alt="CSYC"></a>
 
+<a href="https://github.com/LucasGonzalezRighi/front-trendy-app"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=front-trendy-app&theme=gruvbox&hide_border=true&show_icons=true" alt="Trendy-spot"></a>
+
+<a href="https://github.com/LucasGonzalezRighi/food"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=LucasGonzalezRighi&repo=food&theme=gruvbox&hide_border=true&show_icons=true" alt="Foods"></a>
+
+ <a href="https://github.com/LucasGonzalezRighi/rickandmorty"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lucasgonzalezrighi&repo=rickandmorty&theme=gruvbox&hide_border=true&show_icons=true" alt="RickandMorty"></a>
 </p>
 <br></br>
 <p align="center">
